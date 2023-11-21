@@ -1,6 +1,6 @@
 # Pok-dex
 Study on the use of an API in JS.
-<br/>
+
 The website consumes an API from https://pokeapi.co, which returns Pokémon data in JSON format. This data is used for searching by ID or name to display within the Pokédex.
 
 ![pokedex01](https://github.com/Sparfat/Pok-dex/assets/64151258/0650c933-9bc8-474a-929c-3d10182d13c5)
